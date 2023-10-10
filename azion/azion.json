@@ -1,0 +1,20 @@
+{
+  "name": "Exemplo-RocketSeat-openAI-68be3r",
+  "env": "production",
+  "application": {
+    "id": 1696896453,
+    "name": "Exemplo-RocketSeat-openAI-68be3r"
+  },
+  "domain": {
+    "id": 1696896809,
+    "name": "Exemplo-RocketSeat-openAI-68be3r",
+    "url": "blq2106l4z.map.azionedge.net"
+  },
+  "function": {
+    "id": 11928,
+    "name": "Exemplo-RocketSeat-openAI-68be3r"
+  },
+  "version-id": "20231010000436",
+  "type": "javascript",
+  "mode": "compute"
+}
